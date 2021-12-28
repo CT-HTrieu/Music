@@ -4,7 +4,7 @@ A simple React Spotify apps built with React Typescript, Redux and TailwindCSS.
 
 ## Working application
 
-Checkout: https://ecstatic-franklin-620529.netlify.app/
+Checkout: https://music-iota-five.vercel.app/
 
 ![Workspace](public/assets/images/landing.png)
 
